@@ -7,29 +7,32 @@ Please review our [Brand Guidelines](https://drive.google.com/file/d/1LKxgGTYuJD
 
 Don't combine the Ackee Blockchain Security name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms, outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or recolor the logo. 
 
-## Variations
-| Type            | Location                          |
-| --------------- | --------------------------------- |
-| Full logo - PNG | [/logo/full/png](/logo/full/png/) |
-| Full logo - SVG | [/logo/full/svg](/logo/full/svg/) |
-| Icon - PNG      | [/logo/icon/png](/logo/icon/png)  |
-| Icon - SVG      | [/logo/icon/svg](/logo/icon/svg)  |
+## Company Logo
 
-### Examples
+### Ackee Blockchain Security
+| Type            | Location                          | Note                          |
+| --------------- | --------------------------------- | --------------------------------- |
+| Full logo, white - PNG | [/logo/full/png](/logo/full/png/) |
+| Full logo, white - SVG | [/logo/full/svg](/logo/full/svg/) |
+| Full logo, black - PNG | [/logo/full/png](/logo/full/png/) |
+| Full logo, black - SVG | [/logo/full/svg](/logo/full/svg/) |
 
-| Name and color     | Icon                                                              |
-| ------------------ | ----------------------------------------------------------------- |
-| Full logo, white   | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  |
-| Full logo, purple  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> |
-| Full logo, black   | <img src="logo/full/png/logo_black.png" alt="logo" height="50"/>  |
-| Icon, white        | <img src="logo/icon/png/icon_white.png" alt="logo" height="50"/>  |
-| Icon, purple       | <img src="logo/icon/png/icon_purple.png" alt="logo" height="50"/> |
-| Icon, black        | <img src="logo/icon/png/icon_black.png" alt="logo" height="50"/>  |
-| PFP, always purple | <img src="logo/icon/png/icon_pfp.png" alt="logo" height="50"/>    |
+## Tooling Logos
 
----
+### Wake
+| Type     | Icon                                                              | Location |
+| ------------------ | ----------------------------------------------------------------- | ------------------ |
+| Full, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/png/) |
+| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/svg/) |
+| Full, black - PNG  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> | [/logo/full/png](/logo/wake_black/full/png/) |
+| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/full/svg/) |
+| Icon, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/png/) |
+| Icon, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/svg/) |
+| Icon, black - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/png/) |
+| Icon, black - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/svg/) |
 
-## Wake
+
+### Trident
 | Type     | Icon                                                              | Location |
 | ------------------ | ----------------------------------------------------------------- | ------------------ |
 | Full, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/png/) |
