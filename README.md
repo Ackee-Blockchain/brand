@@ -2,6 +2,9 @@
 
 The official brand assets for any integrations, promotional or marketing materials.
 
+## Press & Photos
+We are happy to support press features and interviews that highlight Ackee Blockchain Security and its leadership. You'll find a collection of high-resolution photos of our CEO, Josef Gattermayer, available for use in editorial content here.
+
 ## Guidelines
 Please review our [Brand Guidelines](https://drive.google.com/file/d/1LKxgGTYuJDBviTSfLle0BMZcZmcxyERv/view?usp=sharing). 
 
