@@ -45,8 +45,8 @@ Don't combine the Ackee Blockchain Security name or logos, or any portion of any
 Ackee Blockchain Security's main color is a vibrant blue color on a dark color scheme. 
 | Color      | HEX                                                                                               | Notes              |
 | ---------- | ------------------------------------------------------------------------------------------------- | ------------------ |
-| blue | `#0000FF` <img valign='middle' src='https://readme-swatches.vercel.app/0000FF?style=circle&b=0'/> | Primary color                   |
-| fuchsia  | `#FF00FF` <img valign='middle' src='https://readme-swatches.vercel.app/FF00FF?style=circle&b=0'/> | Secondary color  |
+| Blue | `#0000FF` <img valign='middle' src='https://readme-swatches.vercel.app/0000FF?style=circle&b=0'/> | Primary color                   |
+| Fuchsia  | `#FF00FF` <img valign='middle' src='https://readme-swatches.vercel.app/FF00FF?style=circle&b=0'/> | Secondary color  |
 
 
 ## Typography
