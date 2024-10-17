@@ -2,7 +2,7 @@
 
 The official brand assets for press and interviews that highlight Ackee Blockchain Security and its leadership are available for use in editorial content. Please review our [Brand Guidelines](https://github.com/Ackee-Blockchain/brand/blob/master/Ackee%20Blockchain%20Security%20Brand%20Guidelines%20Version%202.0.pdf) when using the Ackee Blockchain Security [Logo](https://github.com/Ackee-Blockchain/brand). 
 
-Questions? Send us an email hello(at)ackee(dot)xyz
+Questions? Send us an email hello@ackee.xyz
 
 ## CEO Josef Gattermayer
 
