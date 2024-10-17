@@ -10,39 +10,32 @@ Don't combine the Ackee Blockchain Security name or logos, or any portion of any
 ## Company Logo
 
 ### Ackee Blockchain Security
-| Type            | Location                          | Note                          |
-| --------------- | --------------------------------- | --------------------------------- |
-| Full logo, white - PNG | [/logo/full/png](/logo/full/png/) |
-| Full logo, white - SVG | [/logo/full/svg](/logo/full/svg/) |
-| Full logo, black - PNG | [/logo/full/png](/logo/full/png/) |
-| Full logo, black - SVG | [/logo/full/svg](/logo/full/svg/) |
+| Type            | Location | 
+| --------------- | --------------------------------- |
+| Logo white - PNG | <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
+| Logo black - PNG | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
+| Logo white - SVG | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
+| Logo black - SVG | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
 
 ## Tooling Logos
 
 ### Wake
-| Type     | Icon                                                              | Location |
-| ------------------ | ----------------------------------------------------------------- | ------------------ |
-| Full, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/png/) |
-| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/svg/) |
-| Full, black - PNG  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> | [/logo/full/png](/logo/wake_black/full/png/) |
-| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/full/svg/) |
-| Icon, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/png/) |
-| Icon, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/svg/) |
-| Icon, black - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/png/) |
-| Icon, black - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/svg/) |
+| Type            | Location | 
+| --------------- | --------------------------------- |
+| Logo white - PNG | <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
+| Logo black - PNG | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
+| Logo white - SVG | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
+| Logo black - SVG | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
 
 
 ### Trident
-| Type     | Icon                                                              | Location |
-| ------------------ | ----------------------------------------------------------------- | ------------------ |
-| Full, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/png/) |
-| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/full/svg/) |
-| Full, black - PNG  | <img src="logo/full/png/logo_purple.png" alt="logo" height="50"/> | [/logo/full/png](/logo/wake_black/full/png/) |
-| Full, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/full/svg/) |
-| Icon, white - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/png/) |
-| Icon, white - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_white/icon/svg/) |
-| Icon, black - PNG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/png/) |
-| Icon, black - SVG  | <img src="logo/full/png/logo_white.png" alt="logo" height="50"/>  | [/logo/full/png](/logo/wake_black/icon/svg/) |
+| Type            | Location | 
+| --------------- | --------------------------------- |
+| Logo white - PNG | <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
+| Logo black - PNG | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
+| Logo white - SVG | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
+| Logo black - SVG | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
+
 
 ## Colors
 
