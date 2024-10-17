@@ -55,4 +55,4 @@ Ackee Blockchain Security's main color is a vibrant blue color on a dark color s
 
 ## Support
 
-Questions? Text us on telegram or send us an email
+Questions? Send us an email hello@ackee.xyz
