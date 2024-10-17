@@ -29,12 +29,12 @@ Don't combine the Ackee Blockchain Security name or logos, or any portion of any
 
 
 ### Trident
-| Type            | Location | 
+| Type - Color           | Download Location | 
 | --------------- | --------------------------------- |
-| Logo white - PNG | <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
-| Logo black - PNG | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
-| Logo white - SVG | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
-| Logo black - SVG | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
+| PNG - White | <img src="logo/trident/png/TridentLogoWhite.png" alt="logo" height="50"/> |
+| PNG - Black | <img src="logo/trident/png/TridentLogoBlack.png" alt="logo" height="50"/> |
+| SVG - White | <img src="logo/trident/svg/TridentLogoWhite.svg" alt="logo" height="50"/> |
+| SVG - Black | <img src="logo/trident/svg/TridentLogoBlack.svg" alt="logo" height="50"/> |
 
 
 ## Colors
