@@ -39,6 +39,11 @@ Don't combine the Ackee Blockchain Security name or logos, or any portion of any
 | SVG - White | <img src="logo/trident/svg/TridentLogoWhite.svg" alt="logo" height="50"/> |
 | SVG - Black | <img src="logo/trident/svg/TridentLogoBlack.svg" alt="logo" height="50"/> |
 
+### Solidity (Wake)
+| Type - Color           | Download Location | 
+| --------------- | --------------------------------- |
+| PNG - Color | <img src="logo/solidity/png/SolidityWakeLogo.png" alt="logo" height="50"/> |
+| SVG - Color | <img src="logo/solidity/svg/SolidityWakeLogo.svg" alt="logo" height="50"/> |
 
 ## Colors
 
