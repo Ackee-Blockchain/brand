@@ -13,3 +13,5 @@ Questions? Send us an email hello@ackee.xyz
 | CEO | <img src="CEO_03.png" alt="ceo" height="300"/> |
 | CEO | <img src="CEO_04.jpg" alt="ceo" height="300"/> |
 | CEO | <img src="CEO_05.jpg" alt="ceo" height="300"/> |
+| CEO | <img src="CEO_06.jpg" alt="ceo" height="300"/> |
+
