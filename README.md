@@ -3,12 +3,12 @@
 The official brand assets for any integrations, promotional or marketing materials.
 
 ## Press & Photos
-We are happy to support press features and interviews that highlight Ackee Blockchain Security and its leadership. You'll find a collection of high-resolution photos of our CEO, Josef Gattermayer, Ph.D., available for use in editorial content [here](https://github.com/Ackee-Blockchain/brand/blob/master/photo/photo.md).
+We are happy to support press features and interviews highlighting Ackee Blockchain Security and its leadership. You'll find a collection of high-resolution photos of our CEO, Josef Gattermayer, Ph.D., available for use in editorial content [here](https://github.com/Ackee-Blockchain/brand/blob/master/photo/photo.md).
 
 ## Guidelines
 Please review our [Brand Guidelines](https://github.com/Ackee-Blockchain/brand/blob/master/Ackee%20Blockchain%20Security%20Brand%20Guidelines%20Version%202.0.pdf). 
 
-Don't combine the Ackee Blockchain Security name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms, outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or recolor the logo. 
+Don't combine the Ackee Blockchain Security name, logos, or any portion of any of them, with any other logo, company name, mark, or generic terms outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or recolor the logo. 
 
 ## Company Logo
 
