@@ -58,6 +58,12 @@ Ackee Blockchain Security's main color is a vibrant blue color on a dark color s
 
 [Space Grotesk](https://floriankarsten.github.io/space-grotesk/) is our brand's typeface of choice.  Originally designed by Florian Karsten in 2018, Space Grotesk retains the monospace's idiosyncratic details while optimizing for improved readability at non-display sizes. Florian Karsten Studio (Brno, Czech Republic) is excited about open-source and peer2peer networks.
 
+## Standard Blurb
+```
+About Ackee Blockchain Security
+Team of industry-leading auditors performing security audits and creating open-source dev tools. We contribute to a stronger blockchain ecosystem by providing security services, tooling and education. Partners of Lido, AAVE, Safe, Axelar, and more.
+```
+
 ## Support
 
 Questions? Send us an email hello@ackee.xyz
