@@ -27,8 +27,10 @@ Don't combine the Ackee Blockchain Security name, logos, or any portion of any o
 | --------------- | --------------------------------- |
 | PNG - White | <img src="logo/wake/png/WakeLogoWhite.png" alt="logo" height="50"/> |
 | PNG - Black | <img src="logo/wake/png/WakeLogoBlack.png" alt="logo" height="50"/> |
+| PNG - Key | <img src="logo/wake/png/WakeLogoKey.png" alt="logo" height="50"/> |
 | SVG - White | <img src="logo/wake/svg/WakeLogoWhite.svg" alt="logo" height="50"/> |
 | SVG - Black | <img src="logo/wake/svg/WakeLogoBlack.svg" alt="logo" height="50"/> |
+| SVG - Key | <img src="logo/wake/svg/WakeLogoKey.svg" alt="logo" height="50"/> |
 
 
 ### Trident
@@ -36,14 +38,18 @@ Don't combine the Ackee Blockchain Security name, logos, or any portion of any o
 | --------------- | --------------------------------- |
 | PNG - White | <img src="logo/trident/png/TridentLogoWhite.png" alt="logo" height="50"/> |
 | PNG - Black | <img src="logo/trident/png/TridentLogoBlack.png" alt="logo" height="50"/> |
+| PNG - Key | <img src="logo/trident/png/TridentLogoKey.png" alt="logo" height="50"/> |
 | SVG - White | <img src="logo/trident/svg/TridentLogoWhite.svg" alt="logo" height="50"/> |
 | SVG - Black | <img src="logo/trident/svg/TridentLogoBlack.svg" alt="logo" height="50"/> |
+| SVG - Key | <img src="logo/trident/svg/TridentLogoKey.svg" alt="logo" height="50"/> |
 
 ### Solidity (Wake)
 | Type - Color           | Download Location | 
 | --------------- | --------------------------------- |
 | PNG - Color | <img src="logo/solidity/png/SolidityWakeLogo.png" alt="logo" height="50"/> |
+| PNG - Key | <img src="logo/solidity/png/ExtensionLogoKey.png" alt="logo" height="50"/> |
 | SVG - Color | <img src="logo/solidity/svg/SolidityWakeLogo.svg" alt="logo" height="50"/> |
+| SVG - Key | <img src="logo/solidity/svg/ExtensionLogoKey.svg" alt="logo" height="50"/> |
 
 ## Colors
 
